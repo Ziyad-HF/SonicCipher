@@ -36,7 +36,7 @@ Feel the power of SonicCipher as it transforms the way we approach speaker and w
 
 ## Contributors
 
-- [Ziyad ElFayoumy](https://github.com/Zoz-HF)
+- [Ziyad ElFayoumy](https://github.com/Ziyad-HF)
 - [Amgad Atef](https://github.com/amg-eng)
 - [Mahmoud Mohamed](https://github.com/Mahmoudm007)
 
